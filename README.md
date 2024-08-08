@@ -3,6 +3,17 @@
 - 🔭 Explorando novas tecnologias e metodologias voltadas a Ciência de Dados
 - 🌱 Estou estudando continuamente SQL e NPL
 
+
+Claro, aqui está uma versão mais concisa do seu perfil:
+
+### 🧔🏻 Sobre mim
+
+Sou um cientista de dados com mais de 20 anos de experiência no setor administrativo, o que me proporciona uma vantagem única: a capacidade de alinhar análise de dados com as necessidades estratégicas de negócios. Minha expertise me permite transformar dados em insights práticos, impulsionando a eficiência e inovação. 
+
+Apaixonado por soluções baseadas em dados, busco constantemente novas ferramentas analíticas para agregar valor real às organizações.
+
+
+
 <h3> :rocket: &nbsp;Contatos </h3>
 <a href="mailto:valmirmoreirajunior@gmail.com">
   <img align="left" alt="Armstrong Lohãns | Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
